@@ -6,13 +6,13 @@ import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: < size={20} />,
+		icon: <linkedin size={20} />,
 		href: "www.linkedin.com/in/adriana-mariana-fratila",
 		label: "LinkedIn",
 		handle: "Adriana-Mariana Fratila",
 	},
 	{
-		icon: <linkedin size={20} />,
+		icon: <Mail size={20} />,
 		href: "mailto:adri.fratila08@gmail.com",
 		label: "Email",
 		handle: "adri.fratila08@gmail.com",
