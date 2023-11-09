@@ -1,18 +1,18 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, Mail, linkedin } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Twitter size={20} />,
+		icon: < size={20} />,
 		href: "www.linkedin.com/in/adriana-mariana-fratila",
 		label: "LinkedIn",
 		handle: "Adriana-Mariana Fratila",
 	},
 	{
-		icon: <Mail size={20} />,
+		icon: <linkedin size={20} />,
 		href: "mailto:adri.fratila08@gmail.com",
 		label: "Email",
 		handle: "adri.fratila08@gmail.com",
